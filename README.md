@@ -1,4 +1,4 @@
-
+[
 
 ## Ecommerce-furnutire-website
 <h1 align="center"> LEONA Handbag </h1>
@@ -91,3 +91,4 @@ https://www.figma.com/file/tAfBSrSB2sbDJIbtuset8V/Leona-Handbag-e-Com?node-id=43
 
 Thanks for visiting my portfolio! 😊
 
+](https://github.com/user-attachments/assets/8bc169fe-3fb5-42a9-b602-c84496d86b06)

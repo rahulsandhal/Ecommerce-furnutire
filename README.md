@@ -1,6 +1,6 @@
-## update
 
-# Ecommerce-furnutire-website
+
+## Ecommerce-furnutire-website
 <h1 align="center"> LEONA Handbag </h1>
 
 <p align="center">

@@ -1,7 +1,7 @@
 
 
 ## Ecommerce-furnutire-website
-<h1 align="center"> LEONA Handbag </h1>
+<h1 align="center"> furnutire </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -14,10 +14,10 @@
 
 <br/>
 
-[Figma file](https://www.figma.com/design/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?t=10KHpIVigNtrKVi2-1)
+[Figma file- Ecommerce-furnutire-website ](https://www.figma.com/design/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?t=10KHpIVigNtrKVi2-1)
 
-- Prototype for desktop view: https://www.figma.com/proto/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?node-id=4-2&node-type=frame&t=5LXmQ2K04W4kdPlX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2
-- Prototype for Mobile view: https://www.figma.com/proto/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?node-id=95-1056&node-type=canvas&t=sBxgakcHcxM3MAk3-1&scaling=scale-down&content-scaling=fixed&page-id=30%3A1418&starting-point-node-id=95%3A1056
+- Prototype for desktop view:[ Link ](https://www.figma.com/proto/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?node-id=4-2&node-type=frame&t=5LXmQ2K04W4kdPlX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2)
+- Prototype for Mobile view:[ Link ](https://www.figma.com/proto/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?node-id=95-1056&node-type=canvas&t=sBxgakcHcxM3MAk3-1&scaling=scale-down&content-scaling=fixed&page-id=30%3A1418&starting-point-node-id=95%3A1056)
 
 ## Playing a prototype on desktop
 

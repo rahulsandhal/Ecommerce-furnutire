@@ -1,4 +1,4 @@
-[
+
 
 ## Ecommerce-furnutire-website
 <h1 align="center"> LEONA Handbag </h1>
@@ -14,8 +14,7 @@
 
 <br/>
 
-https://www.figma.com/design/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?node-id=4-2&t=7npgCGQbrtAIljGz-1
-https://www.figma.com/file/tAfBSrSB2sbDJIbtuset8V/Leona-Handbag-e-Com?node-id=433%3A101
+[Figma link]([https://link-url-here.org](https://www.figma.com/design/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?t=10KHpIVigNtrKVi2-1))
 
 - Prototype for desktop view: https://www.figma.com/proto/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?node-id=4-2&node-type=frame&t=5LXmQ2K04W4kdPlX-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2
 - Prototype for Mobile view: https://www.figma.com/proto/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?node-id=95-1056&node-type=canvas&t=sBxgakcHcxM3MAk3-1&scaling=scale-down&content-scaling=fixed&page-id=30%3A1418&starting-point-node-id=95%3A1056
